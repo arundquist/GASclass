@@ -1,4 +1,4 @@
 huh?
-Does this work?
+Does this work? [what about this link?](test.md)
 
 some more
